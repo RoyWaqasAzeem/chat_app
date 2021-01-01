@@ -15,7 +15,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![ScreenShots](screen_shots/chatScreen.jpeg)
-![ScreenShots](screen_shots/login.jpeg)
-![ScreenShots](screen_shots/signup.jpeg)
-![ScreenShots](screen_shots/signupErrorCheck.jpeg)
+![ScreenShots](./screen_shots/chatScreen.jpeg)
+![ScreenShots](./screen_shots/login.jpeg)
+![ScreenShots](./screen_shots/signup.jpeg)
+![ScreenShots](./screen_shots/signupErrorCheck.jpeg)
